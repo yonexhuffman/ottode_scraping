@@ -1,0 +1,191 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Root>
+	
+	
+	<images>
+		
+		
+		<image>
+			
+			
+			<ordernumber>SW574293959</ordernumber>
+			
+			
+			<image>http://127.0.0.1/shopware/media/image/upload/574294403_1.jpg</image>
+			
+			
+			<main>1</main>
+			
+			
+			<description> </description>
+			
+			
+			<position>1</position>
+			
+			
+			<width>0</width>
+			
+			
+			<height>0</height>
+			
+			
+			<relations>{Farbe:schwarz-blau}</relations>
+			
+		
+		</image>
+		
+		
+		<image>
+			
+			
+			<ordernumber>SW574293959</ordernumber>
+			
+			
+			<image>http://127.0.0.1/shopware/media/image/upload/574294403_2.jpg</image>
+			
+			
+			<main>2</main>
+			
+			
+			<description> </description>
+			
+			
+			<position>2</position>
+			
+			
+			<width>0</width>
+			
+			
+			<height>0</height>
+			
+			
+			<relations>{Farbe:schwarz-blau}</relations>
+			
+		
+		</image>
+		
+		
+		<image>
+			
+			
+			<ordernumber>SW574293959</ordernumber>
+			
+			
+			<image>http://127.0.0.1/shopware/media/image/upload/574294403_3.jpg</image>
+			
+			
+			<main>2</main>
+			
+			
+			<description> </description>
+			
+			
+			<position>3</position>
+			
+			
+			<width>0</width>
+			
+			
+			<height>0</height>
+			
+			
+			<relations>{Farbe:schwarz-blau}</relations>
+			
+		
+		</image>
+		
+		
+		<image>
+			
+			
+			<ordernumber>SW574293959</ordernumber>
+			
+			
+			<image>http://127.0.0.1/shopware/media/image/upload/574294403_4.jpg</image>
+			
+			
+			<main>2</main>
+			
+			
+			<description> </description>
+			
+			
+			<position>4</position>
+			
+			
+			<width>0</width>
+			
+			
+			<height>0</height>
+			
+			
+			<relations>{Farbe:schwarz-blau}</relations>
+			
+		
+		</image>
+		
+		
+		<image>
+			
+			
+			<ordernumber>SW574293959</ordernumber>
+			
+			
+			<image>http://127.0.0.1/shopware/media/image/upload/574294403_5.jpg</image>
+			
+			
+			<main>2</main>
+			
+			
+			<description> </description>
+			
+			
+			<position>5</position>
+			
+			
+			<width>0</width>
+			
+			
+			<height>0</height>
+			
+			
+			<relations>{Farbe:schwarz-blau}</relations>
+			
+		
+		</image>
+		
+		
+		<image>
+			
+			
+			<ordernumber>SW574293959</ordernumber>
+			
+			
+			<image>http://127.0.0.1/shopware/media/image/upload/574294403_6.jpg</image>
+			
+			
+			<main>2</main>
+			
+			
+			<description> </description>
+			
+			
+			<position>6</position>
+			
+			
+			<width>0</width>
+			
+			
+			<height>0</height>
+			
+			
+			<relations>{Farbe:schwarz-blau}</relations>
+			
+		
+		</image>
+		
+	
+	</images>
+	
+
+</Root>

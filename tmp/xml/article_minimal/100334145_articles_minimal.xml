@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Root>
+	<articles>
+		<article>
+			<ordernumber>SW100334145</ordernumber>
+			<mainnumber>SW100334145</mainnumber>
+			<name>heine home Regalwand bietet viel Stauraum</name>
+			<supplier>heine home</supplier>
+			<tax>19,00</tax>
+			<prices>
+				<price>
+					<group>EK</group>
+					<price>1.499,99</price>
+				</price>
+			</prices>
+			<active>1</active>
+			<category>
+				<categories>4234</categories>
+			</category>
+		</article>
+	</articles>
+</Root>

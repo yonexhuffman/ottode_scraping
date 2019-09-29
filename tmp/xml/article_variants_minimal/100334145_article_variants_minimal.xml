@@ -1,0 +1,65 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Root>
+	<articles>
+		<article>
+			<ordernumber>SW100334145</ordernumber>
+			<mainnumber>SW100334145</mainnumber>
+			<name>heine home Regalwand bietet viel Stauraum</name>
+			<active>1</active>
+			<prices>
+				<price>
+					<group>EK</group>
+					<price>1.499,99</price>
+				</price>
+			</prices>
+			<configurator>
+				<configGroupName>Farbe</configGroupName>
+				<configOptionName>Braun</configOptionName>
+			</configurator>
+			<configurator>
+				<configGroupName>Variante</configGroupName>
+				<configOptionName>H/b/t ca. 220/247/29 cm, ohne aufbauservice</configOptionName>
+			</configurator>
+		</article>
+		<article>
+			<ordernumber>SW100334145.1</ordernumber>
+			<mainnumber>SW100334145</mainnumber>
+			<name>heine home Regalwand bietet viel Stauraum</name>
+			<active>1</active>
+			<prices>
+				<price>
+					<group>EK</group>
+					<price>1.499,99</price>
+				</price>
+			</prices>
+			<configurator>
+				<configGroupName>Farbe</configGroupName>
+				<configOptionName>Honig</configOptionName>
+			</configurator>
+			<configurator>
+				<configGroupName>Variante</configGroupName>
+				<configOptionName>H/b/t ca. 220/247/29 cm, ohne aufbauservice</configOptionName>
+			</configurator>
+		</article>
+		<article>
+			<ordernumber>SW100334145.2</ordernumber>
+			<mainnumber>SW100334145</mainnumber>
+			<name>heine home Regalwand bietet viel Stauraum</name>
+			<active>1</active>
+			<prices>
+				<price>
+					<group>EK</group>
+					<price>1.499,99</price>
+				</price>
+			</prices>
+			<configurator>
+				<configGroupName>Farbe</configGroupName>
+				<configOptionName>Creme</configOptionName>
+			</configurator>
+			<configurator>
+				<configGroupName>Variante</configGroupName>
+				<configOptionName>H/b/t ca. 220/247/29 cm, ohne aufbauservice</configOptionName>
+			</configurator>
+		</article>
+	</articles>
+</Root>

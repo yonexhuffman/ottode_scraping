@@ -1,0 +1,53 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Root>
+	<articles>
+		<article>
+			<ordernumber>SW100334145</ordernumber>
+			<mainnumber>SW100334145</mainnumber>
+			<name>heine home Regalwand bietet viel Stauraum</name>
+			<supplier>heine home</supplier>
+			<tax>19,00</tax>
+			<prices>
+				<price>
+					<group>EK</group>
+					<price>1.499,99</price>
+				</price>
+			</prices>
+			<active>1</active>
+			<instock>100</instock>
+			<stockmin>20</stockmin>
+			<description> </description>
+			<description_long> &lt;div class="prd_sellingPoints"&gt;&lt;hr class="p_line100"&gt;&lt;ul class="prd_unorderedList"&gt;&lt;li&gt;Feste und herausnehmbare Einlegeböden&lt;/li&gt;&lt;li&gt;Braun gebeizt&lt;/li&gt;&lt;li&gt;FSC®-zertifiziertes Holz&lt;/li&gt;&lt;li&gt;Individuelle Aufteilung&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;&lt;dl class="prd_productInfo__accordion p_accordion--1st p_accordion100" id="js_prd_productInfoAccordion"&gt;
+                &lt;dt class="p_accordion__header" id="js_prd_productInfoCharacteristicsHeader" data-tracking-value="characteristics"&gt;
+                    
+                &lt;/dt&gt;
+                &lt;dd class="p_accordion__content prd_productInfo__characteristics" lang="de"&gt;
+                    Feste und herausnehmbare Einlegeböden. Braun gebeizt. FSC-zertifiziertes Holz. Individuelle Aufteilung. Materialzusammensetzung: Basiskomponente: Linde, MDF. Passende Leiter zum Befestigen muss separat bestellt werden: Leiter-Set: 020949, 021089, 020999
+                &lt;/dd&gt;
+        &lt;/dl&gt; </description_long>
+			<shippingfree>0</shippingfree>
+			<minpurchase>1</minpurchase>
+			<unitID>9</unitID>
+			<pricegroupActive>0</pricegroupActive>
+			<laststock>0</laststock>
+			<weight>0,000</weight>
+			<configurators>
+				<configurator>
+					<configuratortype>0</configuratortype>
+					<configuratorGroup>Farbe</configuratorGroup>
+					<configuratorOptions>Braun</configuratorOptions>
+				</configurator>
+				<configurator>
+					<configuratortype>0</configuratortype>
+					<configuratorGroup>Variante</configuratorGroup>
+					<configuratorOptions>H/B/T ca. 220/247/29 cm, ohne Aufbauservice</configuratorOptions>
+				</configurator>
+			</configurators>
+			<category>
+				<categories>4234</categories>
+			</category>
+			<purchasePrice>0</purchasePrice>
+			<metatitle> heine home Regalwand bietet viel Stauraum kaufen | OTTO</metatitle>
+		</article>
+	</articles>
+</Root>

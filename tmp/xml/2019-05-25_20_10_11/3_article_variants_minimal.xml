@@ -1,0 +1,86 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<Root>
+	
+	
+	<articles>
+		
+		
+		<article>
+			
+			
+			<ordernumber>SW574293959</ordernumber>
+			
+			
+			<mainnumber>SW574293959</mainnumber>
+			
+			
+			<name>Fischer Fahrräder E-Bike »EM 1725«, 9 Gang Shimano XT Schaltwerk, Kettenschaltung, Heckmotor 250 W</name>
+			
+			
+			<active>1</active>
+			
+			
+			<prices>
+				
+				
+				<price>
+					
+					
+					<group>EK</group>
+					
+					
+					<price>1.399,00</price>
+					
+					
+					<pseudoprice>1.699,00</pseudoprice>
+					
+				
+				</price>
+				
+			
+			</prices>
+			
+			
+			<configurator>
+				
+				
+				<configGroupName>Farbe</configGroupName>
+				
+				
+				<configOptionName>Schwarz-blau</configOptionName>
+				
+			
+			</configurator>
+			
+			
+			<configurator>
+				
+				
+				<configGroupName>Ausführung</configGroupName>
+				
+				
+				<configOptionName>Rh 48 cm</configOptionName>
+				
+			
+			</configurator>
+			
+			
+			<configurator>
+				
+				
+				<configGroupName>Variante</configGroupName>
+				
+				
+				<configOptionName>27,5+ zoll (69,85 cm)</configOptionName>
+				
+			
+			</configurator>
+			
+		
+		</article>
+		
+	
+	</articles>
+	
+
+</Root>
